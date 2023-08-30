@@ -6,5 +6,5 @@
 Description of the task: [Here](https://gist.github.com/RafalKucharskiPK/c3bc960f047829569808ccbcffc3b8ce)
 
 * [Analytical Solutions.ipynb](https://github.com/aonurakman/RL-Based-Mobility-Optimization/blob/main/Analytical%20Solutions.ipynb): Task 1
-* [RL-Based Traffic Flow Optimization - Centralized.ipynb](https://github.com/aonurakman/RL-Based-Mobility-Optimization/blob/main/RL-Based%20Traffic%20Flow%20Optimization%20-%20Part%201.ipynb): Task 2, 3 & 4
-* **RL-Based Traffic Flow Optimization - Multi-Agent.ipynb**: Task 2, 3 & 4
+* [RL-Based Traffic Flow Optimization - Centralized.ipynb](https://github.com/aonurakman/RL-Based-Mobility-Optimization/blob/main/RL-Based%20Traffic%20Flow%20Optimization%20-%20Centralized.ipynb): Task 2, 3 & 4
+* [RL-Based Traffic Flow Optimization - Multi-Agent.ipynb](https://github.com/aonurakman/RL-Based-Mobility-Optimization/blob/main/RL-Based%20Traffic%20Flow%20Optimization%20-%20Multi-Agent.ipynb): Task 2, 3 & 4
